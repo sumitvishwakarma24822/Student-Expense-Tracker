@@ -3,5 +3,20 @@
         "category": "Food",
         "amount": 100.0,
         "note": "Lunch"
+    },
+    {
+        "category": "Travel",
+        "amount": 50.0,
+        "note": "Bus"
+    },
+    {
+        "category": "Food",
+        "amount": 100.0,
+        "note": "Lunch"
+    },
+    {
+        "category": "Food",
+        "amount": 100.0,
+        "note": "Lunch"
     }
 ]

@@ -1,2 +1,6 @@
 Git/
 Git-2.56.0-64-bit.exe
+Git/
+Git-2.56.0-64-bit.exe
+__pycache__/
+*.pyc
